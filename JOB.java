@@ -3,9 +3,9 @@ public class JOB {
 
     public static void main(String[] args) {
 
-        char name[]={'1','2','3','4'};
-        int dl[] = {1,1,4,1};
-        int profit[] ={40,30,20,10};
+        char name[]={'1','2','3','4'};//JOB title
+        int dl[] = {1,1,4,1};//deadline
+        int profit[] ={40,30,20,10};//profit
 
         char cap[] = new char[2];
         for (int i =0;i<2 ;i++)
